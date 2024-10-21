@@ -6,5 +6,3 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on aplications back-end
 - 💬 Ask me about Anything
-- ⚡ Fun fact: I'm aways love internet 
-
