@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C# .NET to create application to my IT team</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently developing automatizate codes to my company </p>
 
 ###
 
